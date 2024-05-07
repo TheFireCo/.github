@@ -4,8 +4,8 @@ We are **The Fire Company**, a young and dynamic software startup based in Switz
 
 ## We build 🔥 software
 
-[![fireview](assets/fireview.png)](https://fireview.dev)
-[![giftit](assets/giftit.png)](https://giftit.social)
+[![fireview](profile/assets/fireview.png)](https://fireview.dev)
+[![giftit](profile/assets/giftit.png)](https://giftit.social)
 
 ## Contact Us
 
